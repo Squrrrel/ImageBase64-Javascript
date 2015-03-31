@@ -3,7 +3,7 @@
  * @param  {String}   url
  * @param  {Function} callback
  * @param  {String}   [outputFormat='image/png']
- * @author HaNdTriX
+ * @author Squrrrel
  * @example
 	convertImgToBase64('http://goo.gl/AOxHAL', function(base64Img){
 		console.log('IMAGE:',base64Img);
